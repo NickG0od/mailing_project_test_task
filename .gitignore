@@ -2,4 +2,4 @@
 /.vscode/
 
 /data.txt
-/Документация.docx
+*.docx
